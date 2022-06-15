@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0e1c33;
+
+}
+*{
+    font-family: system-ui, -apple-system, "Segoe UI";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: rgb(212, 220, 228);
+}
+#root{
+    padding: 0;
+    margin: 0;
+}
